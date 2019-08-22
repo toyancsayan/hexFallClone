@@ -101,14 +101,9 @@ public class HexManager : MonoBehaviour
 
                     for (int index = rowIndexOfExplodingHex; index < m_rowCount-1; index++)
                     {
-                        try
-                        {
                             if (m_mainList[columnIndexOfExplodingHex][index] != null)
                                 m_mainList[columnIndexOfExplodingHex][index].Fall();
-                        }
-                        catch { }
-
-
+               
                     }
                
                 }

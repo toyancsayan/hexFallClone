@@ -935,4 +935,4 @@ ScriptsOnlyBuild:
   platform: 13
   scenePathNames:
   - Assets/Scenes/GameScreen.unity
-  playerPath: C:/Users/asus/Desktop/HexFall Clone/HexClone.apk
+  playerPath: C:/Users/asus/Desktop/HexFall Clone/APK/HexClone.apk

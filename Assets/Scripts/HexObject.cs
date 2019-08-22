@@ -57,6 +57,7 @@ public class HexObject : MonoBehaviour
         m_rowIndex = rowIndex;
         m_columnIndex = columnIndex;
         DealWithBombProperties(isBomb);
+        InitMarkerObjects();
 
     }
 
